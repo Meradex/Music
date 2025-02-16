@@ -9,7 +9,7 @@
 
 
 body {
-  background-image: url('/public/Onion.jpg');
+  background-image: url('public/Onion.jpg');
 }
 
 .menu-button{
