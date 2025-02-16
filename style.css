@@ -19,3 +19,7 @@ body {
   background-color: #04174c;
   border-radius: 15%;
 }
+
+.content{
+  width: 70%;
+}
